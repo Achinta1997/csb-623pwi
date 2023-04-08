@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://achinta1997.github.io/csb-623pwi/static/js/main.d03c404b.chunk.js",
+    "main.js.map": "https://achinta1997.github.io/csb-623pwi/static/js/main.d03c404b.chunk.js.map",
+    "runtime-main.js": "https://achinta1997.github.io/csb-623pwi/static/js/runtime-main.160c1b7f.js",
+    "runtime-main.js.map": "https://achinta1997.github.io/csb-623pwi/static/js/runtime-main.160c1b7f.js.map",
+    "static/js/2.aefe00b0.chunk.js": "https://achinta1997.github.io/csb-623pwi/static/js/2.aefe00b0.chunk.js",
+    "static/js/2.aefe00b0.chunk.js.map": "https://achinta1997.github.io/csb-623pwi/static/js/2.aefe00b0.chunk.js.map",
+    "index.html": "https://achinta1997.github.io/csb-623pwi/index.html",
+    "precache-manifest.9fea9a597e5c9208b575fedc60df7c6e.js": "https://achinta1997.github.io/csb-623pwi/precache-manifest.9fea9a597e5c9208b575fedc60df7c6e.js",
+    "service-worker.js": "https://achinta1997.github.io/csb-623pwi/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.160c1b7f.js",
+    "static/js/2.aefe00b0.chunk.js",
+    "static/js/main.d03c404b.chunk.js"
+  ]
+}
